@@ -66,6 +66,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="data\EnglandSmall.json" />
+    <Content Include="data\nuts1ukungrouped org bkup.json" />
+    <Content Include="data\nuts1ukungrouped.json" />
+    <Content Include="data\PISA Global GeoJSON org bkup.json" />
+    <Content Include="data\PISA Global GeoJSON org.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -74,6 +79,18 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\app.css" />
+    <Content Include="css\foundation.css" />
+    <Content Include="css\foundation.min.css" />
+    <Content Include="css\pace.css" />
+    <Content Include="Index.html" />
+    <Content Include="js\app.js" />
+    <Content Include="js\customcontrols.js" />
+    <Content Include="js\footer.js" />
+    <Content Include="js\junk.js" />
+    <Content Include="js\pace.min.js" />
+    <Content Include="js\regional.js" />
+    <Content Include="js\regional.map.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
